@@ -1,5 +1,7 @@
 ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
 ffplay.exe filter=lfs diff=lfs merge=lfs -text
 ffprobe.exe filter=lfs diff=lfs merge=lfs -text
-python/** linguist-language=python
-tools/VT-PR/** linguist-language=C++
+*.html linguist-language=python
+tools/VT-PR/** linguist-language=shell
+tools/VT-PR/vinetrimmer/** linguist-language=python
+*.exe linguist-language=C++
