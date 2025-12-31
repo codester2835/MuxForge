@@ -22,7 +22,7 @@ MuxForge has many features, none of which I claim as my own. I have simply wrapp
 ```
 MuxForge help
 ```
-* <u>or</u> visit the [advanced help](**) file
+* <u>or</u> visit the [advanced help](https://github.com/codester2835/MuxForge/blob/main/Advanced_Help.txt) file
 
 ## Installation
 __Insure you are running in administrator command prompt.__
